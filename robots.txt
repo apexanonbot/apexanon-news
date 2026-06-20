@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apexanonbot.github.io/apexanon-news/sitemap.xml
